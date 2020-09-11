@@ -10,6 +10,7 @@ And **thirdly**, which neighbourhood are among the top 10.
 	python 3.7
 
 **Libraries:** requires installation of the following packages;
+
 	pandas
 	matplotlib
 	seaborn
