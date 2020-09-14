@@ -1,8 +1,11 @@
 # PROJECT MOTIVATION:
 This repository explore the seattleAirbnb data and answers three questions that would help anyone visting seattle, to plan adequately, if they want to stay in an Airbnb rental.
-**Firstly**, what month is the busiest, that is, has the highest renter in seattle.
-**Secondly**, when is the cheapest time to rent an Airbnb in seatle.
-And **thirdly**, which neighbourhood are among the top 10.
+
+The questions answered are as follows:
+
+* _When is the cheapest time to rent an Airbnb in seatle?
+* _What month is the busiest, that is, has the highest renter in seattle?
+* _Which neighbourhood are among the top 10 for airbnb?
 
 
 ### Usage Requirement:
