@@ -14,10 +14,10 @@ The questions answered are as follows:
 
 **Libraries:** requires installation of the following packages;
 
-	[pandas](https://pandas.pydata.org)
-	[matplotlib](https://matplotlib.org)
-	[seaborn](https://seaborn.pydata.org)
-	[numpy](https://numpy.org)
+* [pandas](https://pandas.pydata.org)
+* [matplotlib](https://matplotlib.org)
+* [seaborn](https://seaborn.pydata.org)
+* [numpy](https://numpy.org)
 
 
 ### Files:
